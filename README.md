@@ -38,14 +38,8 @@ print(ypred)
 plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
-``
-
-
-
-
-
-
 ```
+
 ## Output
 </br><img width="1021" height="602" alt="Screenshot 2026-11-24 110734" src="https://github.com/user-attachments/assets/d75b70c8-2706-42d5-a23e-9b94eb81961f" />
 
